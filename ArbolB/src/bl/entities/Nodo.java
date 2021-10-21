@@ -7,7 +7,7 @@ public class Nodo {
     private boolean isLeaf;
 
     Nodo() {
-        clave = new int[3];
+        clave = new int[5];
         hijos = new Nodo[4];
         isLeaf = true;
     }
