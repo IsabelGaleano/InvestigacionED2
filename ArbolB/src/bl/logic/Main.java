@@ -2,28 +2,15 @@ package bl.logic;
 
 import bl.entities.ArbolB;
 
+import java.io.IOException;
+
 public class Main {
 
-    public static void main(String[] args) {
-        ArbolB arbolB = new ArbolB();
-
-        arbolB.insertar(190);
-        arbolB.insertar(57);
-        arbolB.insertar(89);
-        arbolB.insertar(90);
-        arbolB.insertar(121);
-        arbolB.insertar(170);
-        arbolB.insertar(35);
-        arbolB.insertar(48);
-        arbolB.insertar(91);
-        arbolB.insertar(22);
-        arbolB.insertar(126);
-        arbolB.insertar(132);
-        arbolB.insertar(80);
-        arbolB.imprimir();
+    public static void main(String[] args) throws IOException {
+      Controller controller = new Controller();
+      controller.start();
         /*
-        190,57,89,90,121,170,35,48,
-91,22,126,132 y 80
+        : 20, 40, 10, 30, 15, 35, 7, 26, 18, 22, 5, 42, 13, 46, 27, 8, 32, 38, 24, 45, 25
          */
     }
 }
