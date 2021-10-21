@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dea20978-e784-419f-bb23-2b7efcefc4d5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bl/entities/Nodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bl/entities/Nodo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bl/logic/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bl/logic/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Tarea 3/Tarea3ED2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -65,6 +62,8 @@
       <workItem from="1634682061336" duration="3601000" />
       <workItem from="1634757881809" duration="71000" />
       <workItem from="1634852914677" duration="1556000" />
+      <workItem from="1634854808114" duration="66000" />
+      <workItem from="1634854886683" duration="91000" />
     </task>
     <servers />
   </component>
